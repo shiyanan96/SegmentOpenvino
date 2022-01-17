@@ -1,0 +1,3 @@
+/home/yangw/sources/SegmentOpenvino/build/CMakeFiles/segment.dir
+/home/yangw/sources/SegmentOpenvino/build/CMakeFiles/edit_cache.dir
+/home/yangw/sources/SegmentOpenvino/build/CMakeFiles/rebuild_cache.dir

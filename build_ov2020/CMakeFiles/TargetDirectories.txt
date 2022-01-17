@@ -1,0 +1,3 @@
+/home/yangw/sources/SegmentOpenvino/build_ov2020/CMakeFiles/segment.dir
+/home/yangw/sources/SegmentOpenvino/build_ov2020/CMakeFiles/edit_cache.dir
+/home/yangw/sources/SegmentOpenvino/build_ov2020/CMakeFiles/rebuild_cache.dir
